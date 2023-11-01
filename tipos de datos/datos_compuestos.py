@@ -2,7 +2,7 @@
 lista = ["Ariel Gentile", "Canal de You Tube", True, 1.85]
 
 # Creando una tupla (no se puede modificar)
-tupla = ("Ariel Gentile", "Canal de You Tube", True, 1.85)
+tuple = ("Ariel Gentile", "Canal de You Tube", True, 1.85)
 
 # Creando un conjunto (set), se puede modificar pero los
 # elementos no y no permite repetir valores o no almacena datos duplicados
