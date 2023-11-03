@@ -1,4 +1,5 @@
+let numeros = [1, 2, 3, 4, 5]
 
-let nombre = 'Auto';
-
-console.log(typeof nombre === 'string')
+for (let i = 0; numeros.length; i++) {
+    console.log(i)
+}

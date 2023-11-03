@@ -16,6 +16,12 @@ diccionario = {
     'altura': 1.65
 }
 
+# Crear un set usando llaves
+mi_set = {1, 2, 3, 4, 5}
+
+# Crear un set usando la función set()
+otro_set = set([3, 4, 5, 6, 7])
+
 # Esto es valido
 lista[3] = "Maquinola"
 
