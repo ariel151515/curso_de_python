@@ -40,7 +40,6 @@ lista.reverse()
 # Eliminando todos los elementos de una lista
 # lista.clear()
 
-
 print(lista)
 
 print(len(lista))
