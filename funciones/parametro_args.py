@@ -7,7 +7,6 @@
 
 #resultado = suma([5,3,9])
 
-
 #utilizamos el parametro args
 def suma(nombre, *numeros):
     return f"{nombre}, la suma de tus numeros es: {sum(numeros)}"

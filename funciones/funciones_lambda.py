@@ -17,7 +17,6 @@ multiplicar_por_dos = lambda x : x*2
 numeros_pares = filter(lambda numero:numero%2 == 0,numeros)
 print(list(numeros_pares))
 
-
 #EXPLICACION DE LAMBDA
 #lambda (creamos una funcion anonima)
 #numero (que tenga un parametro numero)
