@@ -11,7 +11,6 @@ def decorador(funcion):
 # saludo_modificado = decorador(saludo)
 # saludo_modificado()
 
-
 #Lo de arriba es exactamente lo mismo que lo de abajo
 
 # @decorador

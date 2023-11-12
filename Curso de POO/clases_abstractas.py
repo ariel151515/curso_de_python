@@ -16,7 +16,7 @@ class Persona(ABC):
     def presentarse(self):
         print(f'Hola, me llamo: {self.nombre} y tengo {self.edad} años')
         
-
+   
 class Estudiante(Persona):
     def __init__(self,nombre,edad,sexo,actividad):
         super().__init__(nombre,edad,sexo,actividad)
@@ -26,4 +26,3 @@ class Estudiante(Persona):
     
         
 dalto = Estudiante("Lucas", 21,"Masculino","Programador")
-    
